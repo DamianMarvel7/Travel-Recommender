@@ -10,7 +10,7 @@ With these three recommenders in place, travelers can discover new and exciting 
 
 How to use the API
 1. Clone this repository
-2. Run this command
+2. Run this command <br>
    `pip install -r requirements.txt`
-3. Run this command
+3. Run this command <br>
    `python app.py`
